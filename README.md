@@ -1,7 +1,1 @@
-
-lala este 
-es el 
-archivo de
-prueba
-
-# pruebagit
+# Mi primer repositorio en GitHub
